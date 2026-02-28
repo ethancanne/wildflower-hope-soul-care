@@ -13,7 +13,7 @@ export function PricingCard({
   label,
   price,
   features,
-  buttonLabel = 'Apply',
+  buttonLabel = 'Inquire',
   buttonVariant,
 }: PricingCardProps) {
   return (

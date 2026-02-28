@@ -24,9 +24,8 @@ export default function NotForYouView() {
           </ul>
 
           <Text type="xsmall" className="mt-6">
-            If you are in fresh loss or crisis, you may want to explore the{' '}
-            <span className="text-green font-medium">First Light Ministry</span>{' '}
-            for immediate spiritual soul care support.
+            If you are in fresh loss or crisis, please contact local emergency
+            services or a crisis hotline.
           </Text>
         </div>
       </div>

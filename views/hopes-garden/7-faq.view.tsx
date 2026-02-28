@@ -15,7 +15,7 @@ const faqItems = [
   {
     question: 'Who is this program not for?',
     answer:
-      'This journey may not be the best fit if you are seeking quick fixes or surface-level coaching, want a rigid or fast-paced program, or are currently in active crisis, experiencing suicidal ideation, or need immediate stabilization. If you are in fresh crisis, please explore First Light Ministry or contact local emergency services or a crisis hotline.',
+      'This journey may not be the best fit if you are seeking quick fixes or surface-level coaching, want a rigid or fast-paced program, or are currently in active crisis, experiencing suicidal ideation, or need immediate stabilization. If you are in fresh crisis, please contact local emergency services or a crisis hotline.',
   },
   {
     question: 'Is this a group or 1:1 program?',

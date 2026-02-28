@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { FaInstagram, FaFacebookF } from 'react-icons/fa';
+import { FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { Margin } from './margin.layout';
 
 export default function Footer() {
@@ -40,7 +40,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-4 text-gray-400">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/wildflower.hope/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram"
@@ -50,13 +50,13 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://facebook.com"
+                href="https://www.linkedin.com/in/johanna-cannelongo-b94549194/"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Facebook"
+                aria-label="LinkedIn"
                 className="hover:text-gray-700"
               >
-                <FaFacebookF size={16} />
+                <FaLinkedin size={16} />
               </a>
             </div>
           </div>

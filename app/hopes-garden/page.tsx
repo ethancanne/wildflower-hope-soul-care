@@ -20,7 +20,7 @@ export default function HopesGarden() {
           subtitle="Trauma-informed Christian support for sorrow-soaked hearts in the wilderness."
           buttons={[
             {
-              text: 'Apply Now',
+              text: 'Inquire Now',
               link: 'https://calendly.com/johanna-wildflowerhope/30min',
             },
           ]}

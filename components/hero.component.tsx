@@ -17,7 +17,7 @@ const HeroComponent = (props: Props) => {
       style={{ backgroundImage: `url(${props.image})` }}
       className={`shadow-sm h-screen bg-cover bg-center rounded-lg flex items-center justify-center mask-b-from-70% pt-20 relative`}
     >
-      x<div className="absolute inset-0 backdrop-blur-sm bg-white/50"></div>
+      <div className="absolute inset-0 backdrop-blur-sm bg-white/80"></div>
       <div className="absolute inset-0  bg-white/70   "></div>
       <div className="md:p-8 text-center flex flex-col items-center justify-center gap-8 w-full z-20">
         <Text className="font-sans text-green uppercase" type="xsmall">
