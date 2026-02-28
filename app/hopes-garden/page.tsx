@@ -13,9 +13,9 @@ export default function HopesGarden() {
     <>
       <div className="bg-background text-foreground">
         <HeroComponent
-          image="/forest.png"
-          title="Hope’s Garden Healing"
-          secondTitle="Journey"
+          image="/forest-2.png"
+          title="Hope’s Garden"
+          secondTitle="Healing Journey"
           upperTitle="A sanctuary for your heart"
           subtitle="Trauma-informed Christian support for sorrow-soaked hearts in the wilderness."
           buttons={[

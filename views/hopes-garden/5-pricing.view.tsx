@@ -16,7 +16,7 @@ export default function PricingView() {
           Commit to the pacing of your own heart.
         </Text>
       </section>
-      <section className="flex flex-col md:flex-row gap-12 justify-center px-6 py-32">
+      <section className="flex flex-col md:flex-row items-center gap-12 justify-center py-32">
         <PricingCard
           label="The Group Cohort"
           price="$797"

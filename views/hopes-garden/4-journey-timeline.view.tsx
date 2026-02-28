@@ -80,7 +80,7 @@ const journeyItems: JourneyItem[] = [
 export default function JourneyTimelineView() {
   return (
     <section className="py-28 bg-background-50">
-      <div className="mx-auto max-w-5xl px-6">
+      <div className="mx-auto max-w-5xl">
         <div className="text-center mb-24">
           <Text type="large" className="font-serif mb-4">
             The 12-Movement Overview

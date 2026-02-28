@@ -32,13 +32,13 @@ export function PricingCard({
       <hr className="my-10 opacity-10" />
 
       {/* Features */}
-      <ul className="space-y-4 mb-14">
+      <ul className="space-y-4 mb-14 text-left flex flex-col items-start">
         {features.map((feature, index) => (
           <li
             key={index}
             className="flex items-center justify-start gap-3 text-gray-600"
           >
-            <span className="text-[#8FAE95] text-xs">●</span>
+            <span className="text-green text-xs font-medium">•</span>
             <span>{feature}</span>
           </li>
         ))}

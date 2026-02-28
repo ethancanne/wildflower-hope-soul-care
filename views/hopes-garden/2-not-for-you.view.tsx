@@ -3,7 +3,7 @@ import Text from '@/components/text.component';
 export default function NotForYouView() {
   return (
     <section className="py-20 bg-background-50">
-      <div className="mx-auto max-w-3xl px-6 text-center">
+      <div className="mx-auto max-w-3xl text-center">
         <Text
           type="small"
           className="uppercase tracking-[0.25em] text-subtle-foreground mb-6"

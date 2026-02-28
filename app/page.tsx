@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <div className="bg-background text-foreground">
         <HeroComponent
-          image="/hero-image.png"
+          image="/wildflower-field.jpg"
           title="Wildflower Hope"
           secondTitle="Soul Care"
           subtitle="Where broken ground becomes holy ground."

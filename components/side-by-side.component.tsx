@@ -24,7 +24,7 @@ export default function SideBySide({
 }: Props) {
   return (
     <section className="bg-background-50 py-20">
-      <div className="mx-auto max-w-7xl px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
+      <div className="mx-auto max-w-7xl grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
         {/* IMAGE COLUMN */}
         <div className="relative w-full max-w-md mx-auto lg:mx-0">
           <div className="bg-background-200 p-6">
@@ -33,7 +33,7 @@ export default function SideBySide({
               alt={imageAlt}
               width={800}
               height={1000}
-              className="object-cover"
+              className="object-cover border-4 border-white"
               priority
             />
           </div>

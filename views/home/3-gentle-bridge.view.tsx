@@ -13,7 +13,7 @@ const GentleBridgeView = () => {
 
       <Text
         type="small"
-        className="text-center my-8 italic text-subtle-foreground leading-relaxed font-display max-w-3xl mx-auto"
+        className="text-center my-8 italic text-subtle-foreground leading-relaxed font-display md:max-w-3xl max-w-[90%] mx-auto"
       >
         You don’t need fixing. You don’t need quick answers, and you don’t need
         to have it all figured out.{' '}
