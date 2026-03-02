@@ -1,7 +1,15 @@
 import { PricingCard } from '@/components/pricing-card.component';
 import Text from '@/components/text.component';
 
-export default function PricingView() {
+type Props = {
+  pricingOptions: {
+    title: string;
+    price: string;
+    features: string[];
+  }[];
+};
+
+export default function PricingView({ pricingOptions }: Props) {
   return (
     <>
       <section className="text-center mb-2">
@@ -17,24 +25,15 @@ export default function PricingView() {
         </Text>
       </section>
       <section className="flex flex-col md:flex-row items-center gap-12 justify-center py-32">
-        <PricingCard
-          label="The Group Cohort"
-          price="$797"
-          features={[
-            'Monthly live group coaching calls',
-            'Intimate circle of 6-8 women',
-            'Access to full 12-month curriculum',
-            'Private community forum',
-          ]}
-          buttonVariant="primary"
-        />
-
-        <PricingCard
-          label="1:1 Mentorship"
-          price="$2,400"
-          features={['Private Guidance', 'Custom Roadmap', 'Deeper Somatics']}
-          buttonVariant="secondary"
-        />
+        {pricingOptions.map((price, index) => (
+          <PricingCard
+            key={index}
+            label={price.title}
+            price={price.price}
+            features={price.features}
+            buttonVariant={index === 0 ? 'primary' : 'secondary'}
+          />
+        ))}
       </section>
     </>
   );

@@ -1,5 +1,6 @@
 import HeroComponent from '@/components/hero.component';
 import { Margin } from '@/layout/margin.layout';
+import { getData } from '@/lib/getData';
 import WhoThisProgramIsForView from '@/views/hopes-garden/1-who-this-program-is-for.view';
 import NotForYouView from '@/views/hopes-garden/2-not-for-you.view';
 import JourneyDifferenceView from '@/views/hopes-garden/3-journey-difference.view';
@@ -8,7 +9,22 @@ import PricingSection from '@/views/hopes-garden/5-pricing.view';
 import DiscernmentCallViewSection from '@/views/hopes-garden/6-discernment-call.view';
 import FaqView from '@/views/hopes-garden/7-faq.view';
 
-export default function HopesGarden() {
+export default async function HopesGarden() {
+  const hopesGardenJourneyData = (await getData('hopes-garden-journey')) as {
+    movements: {
+      title: string;
+      description: string;
+    }[];
+    pricingOptions: {
+      title: string;
+      price: string;
+      features: string[];
+    }[];
+    faqs: {
+      question: string;
+      answer: string;
+    }[];
+  };
   return (
     <>
       <div className="bg-background text-foreground">
@@ -36,16 +52,18 @@ export default function HopesGarden() {
         <JourneyDifferenceView />
       </Margin>
       <Margin outerClassName="bg-gradient-to-b from-background-200 to-background text-foreground mb-20 pt-10">
-        <JourneyTimelineView />
+        <JourneyTimelineView movements={hopesGardenJourneyData.movements} />
       </Margin>
       <Margin outerClassName="text-foreground mb-20 pt-20 border-t-[0.5] border-gray-200 bg-gradient-to-b from-background-green to-background">
-        <PricingSection />
+        <PricingSection
+          pricingOptions={hopesGardenJourneyData.pricingOptions}
+        />
       </Margin>
       <Margin outerClassName="bg-background text-foreground mb-20 pt-10">
         <DiscernmentCallViewSection />
       </Margin>
       <Margin outerClassName="bg-gradient-to-b from-background-200 to-background text-foreground mb-20 pt-20">
-        <FaqView />
+        <FaqView faqs={hopesGardenJourneyData.faqs} />
       </Margin>
     </>
   );

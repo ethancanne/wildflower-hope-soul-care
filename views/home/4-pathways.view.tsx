@@ -6,7 +6,7 @@ const pathways = [
   {
     title: "Hope's Garden",
     description:
-      'A healing pilgrimage for women navigating complex trauma. Through gentle retreats and community, we cultivate safety and restoration.',
+      'A healing journey for women navigating complex trauma. Through gentle retreats and community, we cultivate safety and restoration.',
     image: '/hero-image.png',
   },
   {

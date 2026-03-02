@@ -24,8 +24,9 @@ export default function NotForYouView() {
           </ul>
 
           <Text type="xsmall" className="mt-6">
-            If you are in fresh loss or crisis, please contact local emergency
-            services or a crisis hotline.
+            If you are in immediate crisis or experiencing thoughts of
+            self-harm, please contact local emergency services or a crisis
+            hotline.
           </Text>
         </div>
       </div>

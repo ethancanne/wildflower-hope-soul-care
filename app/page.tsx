@@ -1,12 +1,18 @@
 import HeroComponent from '@/components/hero.component';
 import { Margin } from '@/layout/margin.layout';
+import { getData } from '@/lib/getData';
 import ReasonsView from '@/views/home/1-reasons.view';
 import ScriptureView from '@/views/home/2-scripture.view';
 import GentleBridgeView from '@/views/home/3-gentle-bridge.view';
 import AboutMeView from '@/views/home/5-about-me';
 import InvitationView from '@/views/home/6-invitation.view';
 
-export default function Home() {
+export default async function Home() {
+  const aboutData = (await getData('about')) as {
+    picture: string;
+    credentialsList: { title: string }[];
+  };
+
   return (
     <>
       <div className="bg-background text-foreground">
@@ -29,7 +35,7 @@ export default function Home() {
         <ScriptureView />
       </Margin>
       <Margin outerClassName="bg-background-green text-foreground pt-10">
-        <AboutMeView />
+        <AboutMeView {...aboutData} />
       </Margin>
       <Margin outerClassName="bg-background text-foreground mb-20 pt-10">
         <InvitationView />
