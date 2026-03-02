@@ -5,7 +5,7 @@ type Props = {
   pricingOptions: {
     title: string;
     price: string;
-    features: string[];
+    features: { feature: string }[];
   }[];
 };
 

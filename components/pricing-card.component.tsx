@@ -4,7 +4,7 @@ import Text from './text.component';
 type PricingCardProps = {
   label: string;
   price: string;
-  features: string[];
+  features: { feature: string }[];
   buttonLabel?: string;
   buttonVariant?: 'primary' | 'secondary';
 };
@@ -39,7 +39,7 @@ export function PricingCard({
             className="flex items-center justify-start gap-3 text-gray-600"
           >
             <span className="text-green text-xs font-medium">•</span>
-            <span>{feature}</span>
+            <span>{feature.feature}</span>
           </li>
         ))}
       </ul>
