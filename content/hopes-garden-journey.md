@@ -27,7 +27,7 @@ movements:
 pricingOptions:
   - title: THE GROUP COHORT
     features:
-      - feature: Test
+      - feature: Testhjjh
     price: $797
 faqs:
   - question: Is this therapy or counseling?
