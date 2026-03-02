@@ -18,7 +18,7 @@ export default async function HopesGarden() {
     pricingOptions: {
       title: string;
       price: string;
-      features: string[];
+      features: { feature: string }[];
     }[];
     faqs: {
       question: string;
