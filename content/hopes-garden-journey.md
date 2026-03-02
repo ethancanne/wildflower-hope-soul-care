@@ -31,7 +31,7 @@ pricingOptions:
       - feature: Personalized Support
       - feature: faith-rooted Soul Care
       - feature: Gentle but Structured Healing Pathway
-    price: $1,497 (payment plans available)
+    price: $1,497
 faqs:
   - question: Is this therapy or counseling?
     answer: No. Wildflower Hope Soul Care offers Christian coaching and spiritual soul care. This work is trauma-informed and rooted in prayer, Scripture, and the presence of God, but it is not psychotherapy, clinical counseling, or medical treatment. I do not diagnose or treat mental health disorders. If you are currently working with a licensed therapist, this journey can often complement that work.
