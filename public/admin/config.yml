@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: ethancannelongo/wildflower-hope-soul-care
+  repo: ethancanne/wildflower-hope-soul-care
   branch: main
   auth_scope: repo
 
