@@ -25,9 +25,10 @@ movements:
   - title: The Wildflower Way
     description: Stepping forward with hope as a quiet, beautiful rebellion.
 pricingOptions:
-  - title: THE GROUP COHORT
+  - title: test
     features:
-      - feature: Testhjjh
+      - feature: hello
+      - feature: test
     price: $797
 faqs:
   - question: Is this therapy or counseling?
