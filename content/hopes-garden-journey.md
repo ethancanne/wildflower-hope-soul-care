@@ -1,9 +1,9 @@
 ---
 movements:
   - title: The Winter Garden
-    description: Surrendering to the stillness of initial loss and the cold truth of what has passed.
+    description: Creating safety and gently acknowledging the reality of pain, loss or disappointment.
   - title: Clearing the Debris
-    description: Gently noticing what feels heavy and overwhelming, while creating a little more breathing room in the heart and body
+    description: Gently noticing what feels heavy and overwhelming, while creating a little more breathing room in the heart and body.
   - title: Tending the Soil
     description: Softening the nervous system and heart to safely recieve support, grace and healing.
   - title: The Seed of Lament
