@@ -13,17 +13,17 @@ movements:
   - title: The First Sprout
     description: Noticing early signs of resilience and life emerging slowly and gently as hope begins to appear.
   - title: Pruning the Self
-    description: Gently refining priorities and setting boundaries, capacity, and priorities with God's wisdomfor this new season.
+    description: Gently refining boundaries, capacity, and priorities with God's wisdom for this new season.
   - title: The Trellis of Grace
-    description: Building supportive rhythms, relationships, and structures, that sustain ongoing healing.
+    description: Building supportive rhythms, relationships, and structures that sustain ongoing healing in body, mind and spirit.
   - title: Sunlight and Shadows
-    description: Learning to safely hold both joy and sorrow without pressure or guilt trusting God's presence in both.
+    description: Learning to safely hold both joy and sorrow without pressure or guilt while trusting God's loving presence in both.
   - title: Deep Blooming
-    description: Living more fully into your story with growing strength, tenderness, and honesty.
+    description: Living more fully into your story with growing strength, compassion, tenderness, and honesty.
   - title: Gathering the Harvest
     description: Gently recognizing the fruit that has grown from the soil of sorrow through God's faithful tending.
   - title: The Wildflower Way
-    description: Stepping forward with the Lord with defiant hope, resilient faith, and a softened, strengthened heart.
+    description: Stepping forward with the Lord with steady hope, resilient faith, and a gently strengthened spirit and heart.
 pricingOptions:
   - title: Hope's Garden Healing Journey
     features:
