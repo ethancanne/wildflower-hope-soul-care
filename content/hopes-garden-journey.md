@@ -1,9 +1,9 @@
 ---
 movements:
   - title: The Winter Garden
-    description: Creating safety and gently acknowledging the reality of pain, loss or disappointment.
+    description: Creating safety and gently acknowledging the reality of pain, loss or disappointment as we begin to rest in God's compassionate presence.
   - title: Clearing the Debris
-    description: Gently noticing what feels heavy and overwhelming, while creating a little more breathing room in the heart and body
+    description: Gently noticing what feels heavy and overwhelming, while gently allowing the Lord's presence to create a little more breathing room in the heart and body.
   - title: Tending the Soil
     description: Softening the nervous system and heart to safely receive support, grace and healing as God begins His quiet work within.
   - title: The Seed of Lament
