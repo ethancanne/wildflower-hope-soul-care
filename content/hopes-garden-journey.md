@@ -3,27 +3,27 @@ movements:
   - title: The Winter Garden
     description: Creating safety and gently acknowledging the reality of pain, loss or disappointment.
   - title: Clearing the Debris
-    description: Gently noticing what feels heavy and overwhelming, while creating a little more breathing room in the heart and body.
+    description: Gently noticing what feels heavy and overwhelming, while creating a little more breathing room in the heart and body
   - title: Tending the Soil
-    description: Softening the nervous system and heart to safely recieve support, grace and healing.
+    description: Softening the nervous system and heart to safely receive support, grace and healing as God begins His quiet work within.
   - title: The Seed of Lament
     description: Gently finding  the language for grief and giving sacred permission for honest sorrow.
   - title: Watering the Roots
-    description: Strengthening identity, belovedness, and internal stability in the midst of grief
+    description: Strengthening identity, belovedness, and internal stability in the midst of grief, grounded in God's truth.
   - title: The First Sprout
-    description: Noticing early signs of resilience and life emerging slowly and gently.
+    description: Noticing early signs of resilience and life emerging slowly and gently as hope begins to appear.
   - title: Pruning the Self
-    description: Gently refining priorities and setting boundaries, capacity, and priorities for this new season.
+    description: Gently refining priorities and setting boundaries, capacity, and priorities with God's wisdomfor this new season.
   - title: The Trellis of Grace
     description: Building supportive rhythms, relationships, and structures, that sustain ongoing healing.
   - title: Sunlight and Shadows
-    description: Learning to safely hold both joy and sorrow without pressure or guilt.
+    description: Learning to safely hold both joy and sorrow without pressure or guilt trusting God's presence in both.
   - title: Deep Blooming
     description: Living more fully into your story with growing strength, tenderness, and honesty.
   - title: Gathering the Harvest
-    description: Gently recognizing the fruit that has grown from the soil of sorrow.
+    description: Gently recognizing the fruit that has grown from the soil of sorrow through God's faithful tending.
   - title: The Wildflower Way
-    description: Stepping forward with quiet hope, resilient faith, and a softened, strengthened heart.
+    description: Stepping forward with the Lord with defiant hope, resilient faith, and a softened, strengthened heart.
 pricingOptions:
   - title: Hope's Garden Healing Journey
     features:
