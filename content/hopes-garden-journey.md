@@ -7,7 +7,7 @@ movements:
   - title: Tending the Soil
     description: Softening the nervous system and heart to safely receive support, grace and healing as God begins His quiet work within.
   - title: The Seed of Lament
-    description: Gently finding  the language for grief and giving sacred permission for honest sorrow.
+    description: Gently finding  the language for grief and giving sacred permission for honest sorrow before the Lord.
   - title: Watering the Roots
     description: Strengthening identity, belovedness, and internal stability in the midst of grief, grounded in God's truth.
   - title: The First Sprout
@@ -15,7 +15,7 @@ movements:
   - title: Pruning the Self
     description: Gently refining boundaries, capacity, and priorities with God's wisdom for this new season.
   - title: The Trellis of Grace
-    description: Building supportive rhythms, relationships, and structures that sustain ongoing healing in body, mind and spirit.
+    description: Building supportive rhythms, relationships, and structures that help sustain God's ongoing healing in body, mind and spirit.
   - title: Sunlight and Shadows
     description: Learning to safely hold both joy and sorrow without pressure or guilt while trusting God's loving presence in both.
   - title: Deep Blooming
@@ -23,7 +23,7 @@ movements:
   - title: Gathering the Harvest
     description: Gently recognizing the fruit that has grown from the soil of sorrow through God's faithful tending.
   - title: The Wildflower Way
-    description: Stepping forward with the Lord with steady hope, resilient faith, and a gently strengthened spirit and heart.
+    description: Stepping forward with the Lord with steady hope, resilient faith, and a gently strengthened heart.
 pricingOptions:
   - title: Hope's Garden Healing Journey
     features:
