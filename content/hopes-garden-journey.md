@@ -40,25 +40,25 @@ faqs:
   - question: Who is this program not for?
     answer: This journey may not be the best fit if you are seeking quick fixes or surface-level coaching, want a rigid or fast-paced program, or are currently in active crisis, experiencing suicidal ideation, or need immediate stabilization. If you are in fresh crisis, please contact local emergency services or a crisis hotline.
   - question: Is this a group or 1:1 program?
-    answer: Both options are available. Healing happens in the presence of God and in the presence of safe community. Some participants choose group, others choose one-on-one. Both formats are held with the same trauma-informed, Christ-centered approach.
+    answer: 1:1 is available now. Group sessions will be offered in the future. Healing happens in the presence of God and in the presence of safe community. Some participants choose group, others choose one-on-one. Both formats are held with the same trauma-informed, Christ-centered approach.
   - question: Is grief a linear process in this program?
     answer: No. Grief is not linear. Healing is not a checklist. The twelve movements are not rigid stages but a gentle map. You may recognize yourself in several movements at once or return to earlier movements as new layers surface. We move forward tenderly while honoring your pace.
   - question: Will I be forced to share in a group?
-    answer: No. You will always be invited, never pressured. You choose what, when, and how much you share. Listening is participation. Silence is welcome.
+    answer: No. When group sessions are offered, you will always be invited, never pressured. You choose what, when, and how much you share. Listening is participation. Silence is welcome.
   - question: What if I don’t feel ready for deep healing work?
-    answer: That’s okay. If you are in the earliest days of grief, First Light Ministry may be a better first step. The Hope’s Garden Healing Journey™ is for those who sense they are ready to begin tending the soil again, even gently.
+    answer: That’s okay. If you are in the earliest days of grief, First Light Ministry (offered in the future) may be a better first step. The Hope’s Garden Healing Journey™ is for those who sense they are ready to begin tending the soil again, even gently.
   - question: Does this program include Immanuel Prayer?
     answer: Yes. The journey includes one primary Immanuel Prayer session with spacious integration weeks. Additional Immanuel Prayer sessions may be available by invitation following completion of the program.
   - question: What is the Wildflower Circle?
-    answer: The Wildflower Circle is an ongoing community for graduates of the Hope’s Garden Healing Journey™ who desire continued connection, prayer, and support. Participation is optional.
+    answer: The Wildflower Circle (soon to launch) is an ongoing community for graduates of the Hope’s Garden Healing Journey™ who desire continued connection, prayer, and support. Participation is optional.
   - question: How long is the program?
     answer: The program is 12 weeks. Each week includes a 60-minute group or 1:1 session, with optional reflection and journaling between sessions.
   - question: What if I miss a session?
-    answer: Group sessions are not recorded to protect confidentiality. If you miss a session, you’ll be offered a brief summary and reflective prompts.
+    answer: Group sessions (to be offered in the future) are not recorded to protect confidentiality. If you miss a session, you’ll be offered a brief summary and reflective prompts.
   - question: How much does it cost?
     answer: |-
-      Group Journey: $797.
-      1:1 Journey: $2,400.
+      Group Journey: TBD.
+      1:1 Journey: $1,497.
       Payment plans are available, and a limited number of partial scholarships may be offered.
   - question: Do you offer refunds?
     answer: Due to the nature of this work and limited group capacity, refunds are not offered once the program begins. If you have concerns, please reach out before enrolling.
