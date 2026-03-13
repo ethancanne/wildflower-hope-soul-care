@@ -46,7 +46,7 @@ export default function JourneyTimelineView({ movements }: Props) {
           </Text>
 
           <Text type="medium" className="italic text-subtle-foreground">
-            A linear path through the landscape of the heart.
+            A gentle journey through the landscape of the heart.
           </Text>
         </div>
 
