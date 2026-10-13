@@ -4,7 +4,7 @@ import Text from '@/components/text.component';
 type Props = {
   pricingOptions: {
     title: string;
-    price: string;
+    price?: string;
     features: { feature: string }[];
   }[];
 };
@@ -31,6 +31,8 @@ export default function PricingView({ pricingOptions }: Props) {
             label={price.title}
             price={price.price}
             features={price.features}
+            buttonLabel="Contact Johanna"
+            buttonLink="/contact"
             buttonVariant={index === 0 ? 'primary' : 'secondary'}
           />
         ))}

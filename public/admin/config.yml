@@ -65,6 +65,7 @@ collections:
               - name: price
                 label: Price
                 widget: string
+                required: false
 
           - name: faqs
             label: FAQs

@@ -29,9 +29,8 @@ pricingOptions:
     features:
       - feature: 12 Private Sessions
       - feature: Personalized Support
-      - feature: faith-rooted Soul Care
+      - feature: Faith-rooted Soul Care
       - feature: Gentle but Structured Healing Pathway
-    price: $1,497
 faqs:
   - question: Is this therapy or counseling?
     answer: No. Wildflower Hope Soul Care offers Christian coaching and spiritual soul care. This work is trauma-informed and rooted in prayer, Scripture, and the presence of God, but it is not psychotherapy, clinical counseling, or medical treatment. I do not diagnose or treat mental health disorders. If you are currently working with a licensed therapist, this journey can often complement that work.
@@ -56,12 +55,9 @@ faqs:
   - question: What if I miss a session?
     answer: Group sessions (to be offered in the future) are not recorded to protect confidentiality. If you miss a session, you’ll be offered a brief summary and reflective prompts.
   - question: How much does it cost?
-    answer: |-
-      Group Journey: TBD.
-      1:1 Journey: $1,497.
-      Payment plans are available, and a limited number of partial scholarships may be offered.
+    answer: Please reach out to Johanna directly to discuss investment options and details. You are warmly welcome to contact her through the Contact page or schedule a Discernment Call.
   - question: Do you offer refunds?
-    answer: Due to the nature of this work and limited group capacity, refunds are not offered once the program begins. If you have concerns, please reach out before enrolling.
+    answer: Due to the nature of this work and limited capacity, refunds are not offered once the program begins. If you have concerns, please reach out to Johanna before enrolling.
   - question: How do I know if this is a good fit?
     answer: Start with a free Discernment Call. We’ll talk gently about what you’re walking through and discern together whether Hope’s Garden Healing Journey™ is a good next step.
   - question: Is this faith-based?

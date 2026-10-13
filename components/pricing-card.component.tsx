@@ -3,9 +3,10 @@ import Text from './text.component';
 
 type PricingCardProps = {
   label: string;
-  price: string;
+  price?: string;
   features: { feature: string }[];
   buttonLabel?: string;
+  buttonLink?: string;
   buttonVariant?: 'primary' | 'secondary';
 };
 
@@ -13,7 +14,8 @@ export function PricingCard({
   label,
   price,
   features,
-  buttonLabel = 'Inquire',
+  buttonLabel = 'Contact Johanna',
+  buttonLink = '/contact',
   buttonVariant,
 }: PricingCardProps) {
   return (
@@ -25,9 +27,17 @@ export function PricingCard({
         {label.toUpperCase()}
       </Text>
 
-      <Text type="large" className="font-serif mb-10">
-        {price}
-      </Text>
+      {price ? (
+        <Text type="large" className="font-serif mb-10">
+          {price}
+        </Text>
+      ) : (
+        <div className="mb-10">
+          <Text type="small" className="text-subtle-foreground font-sans">
+            Please reach out to Johanna for pricing options and details.
+          </Text>
+        </div>
+      )}
 
       <hr className="my-10 opacity-10" />
 
@@ -45,7 +55,7 @@ export function PricingCard({
       </ul>
 
       <Button
-        link="https://calendly.com/johanna-wildflowerhope/30min"
+        link={buttonLink}
         type={buttonVariant || 'primary'}
         className={`w-full py-3 text-sm font-medium`}
       >
